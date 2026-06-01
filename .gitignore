@@ -1,0 +1,22 @@
+# Telethon session
+*.session
+*.session-journal
+
+# Downloaded media
+downloads/
+
+# Resume progress
+last_id.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# VSCode
+.vscode/
+
+# Local credentials
+config.py
